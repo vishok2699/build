@@ -1,0 +1,12 @@
+GIT COMMANDS : 
+
+git pull - pull chnages from the git hub to your computer
+git status - current status of the changes
+	red - still not added
+	green - added
+git add --all - prepare all the files to commit and push
+git commit -m" sddfsdfasdg "  - stage the all added changes.
+git push - push changes to GIT HUB repo.
+
+
+
