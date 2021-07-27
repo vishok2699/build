@@ -1,5 +1,6 @@
 GIT COMMANDS : 
 
+git
 git pull - pull chnages from the git hub to your computer
 git status - current status of the changes
 	red - still not added
